@@ -1,0 +1,92 @@
+
+1 შექმენი Multi page ნამდვილი website 
+ყველა გვერდზე უნდა გამოიტანოთ რაც აქამდე ვისწავლეთ, მაგ: ტექსტები, ლინკები, ფოტოები, სათაურები
+1 პირველი დავალება
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>მთავარი</title>
+</head>
+<body>
+
+    <header>
+        <h1>მოგესალმებით multi page-ზე</h1>
+        <nav>
+        <ul>
+            <a href="index.html">მთავარი</a> 
+            <a href="about.html">ჩვენს შესახებ</a> 
+            <a href="contact.html">კონტაქტი</a>
+        </nav>
+    </header>
+
+
+    <section id="#index.html">
+        <h1>this is multi page the real webiste</h1>
+        <p>This is the main page</p>
+    </section>
+        
+    
+    <section id="about.html">
+        <h1>this is multi page the real website</h1>
+        <p>You can learn more about us on this website</p>
+    </section>
+
+
+    <section id="contact.html">
+        <h1>this is multi page the real website</h1>
+        <p>on this page you can concatc us</p>
+    </section>
+
+      </nav>
+     </ul>
+  </body>
+</html>
+
+
+
+2  შექმენით Single page website (იგივე წესებით როგორც მეორე დავალება)
+2 მეორე დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <header>
+        <h1>მოგესალმებით single website-ზე</h1>
+        <nav>
+        <ul>
+            <a href="#home">მთავარი</a> |
+            <section id="#home">
+                <h1>special page(home)</h1>
+                <p>this is single website</p>
+            </section>
+        </nav>
+        </ul>
+    </header>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+3  თქვენი სიტყვებით ახსენით single & multi page website'ები და მათ შორის განსხვავება, ასევე განიხილეთ რომელი რა შემთხვევაში გვჭირდება
+3 მესამე დავალება
+
+# single website-არის ვებსაიტი სადაც მხოლოდ არის html გვერდი და შიგნით წერია მთელი შინაარსი და ინფორმაცია, ვიყენებთ როდესაც გვინდა:
+საიტის სწრაფათ ჩატვირთვა,და არ გვაქვს ბევრი ინფორმაცია.
+
+# multi website-არის საიტი რომელიც შედგება სხვადასხვა page-ისგან,მაგ;მთავარი,ჩვენს შესახებ და ა.შ ... ვიყენებთ როდესაც:
+გვაქ ბევრი ინფორმაცია და გვინდა შინაარსის ეფექტურად ჩაწერა,და ასევე როდესაც გვინდა ბევრი სექციების გაკეთება.
+
+
+4  ახსენით რატომ ვიყენებთ navigation bar'ში unordered list'ს და არა ordered'ს
+4 მეოთხე დავალება
+
+# <ol>-გამოიყენება ნუმერაციისთვის,როდესაც ჩვენ გვინდა სიების ან ინსტრუქციის ნახვა
+# <ul>- ნავიგაციის ბარში ელემენტებს მაგ:(ჩვენს შესახებ,მთავარი და ა.შ) არ აქვთ რიგითობა ამიტომ უმჯობესია გამოვიყენოთ <ul>
