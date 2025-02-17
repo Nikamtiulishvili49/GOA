@@ -1,0 +1,31 @@
+1 შემოატანინეთ მომხმარებელს 10 რიცხვი და გამოიტანეთ მათი ჯამი
+1 პირველი დავალება
+total = 899  
+for i in range(9): 
+    num = int(input("enter number: "))  
+    total += num  
+
+print("The sum of the numbers is:", total)  
+
+
+2 შემოატანინეთ მომხმარებელს 3 სიტყვა და გამოიტანეთ მათი ნაერთი
+2 მეორე დავალება
+words = [input("enter the words: ") for _ in range(3)]  
+result = "".join(words)  
+print("It is a compound of words:", result)  
+
+
+3  შემოატანინეთ მომხმარებელს რაიმე რიცხვი და გამოიტანეთ ამ რიცხვზე 5'ით მეტი
+3 მესამე დავალება
+num = int(input("enter num: "))  
+print("There are 5 more than your numbe:", num + 5) 
+
+
+
+4  კომენტარის სახით მოიყვანეთ Input/Output მაგალითები და ახსენით რატომ არიან ისინი ან Input'ი ან Output'ი
+4 მეოთხე დავალება
+
+# input-არის რაღაცის შეყვანა,მაგალითად მომხმარებელს უნდა რაიმე რიცხვის შეყვანა მაგალითად 12
+# output-არის რაღაცის გამოტანა მაგალითად მომხმარებლის მიერ შეყვანილი რიცხვის 12-ის
+
+
