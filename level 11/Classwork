@@ -1,0 +1,80 @@
+1 გამოიტანეთ თქვენი საყვარელი სპორტის სახელი დიდად,
+ ასევე ამ სპორტის რომელიმე მომენტის ფოტო და ლინკი სადაც ინფორმაციაა ამ სპორტის შესახებ
+1 პირველი დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Footbal</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shunsuke1_20080622.jpg/220px-Shunsuke1_20080622.jpg" width="500">
+    <p>if you want know more infomration on footbal visit this link: <a href="https://en.wikipedia.org/wiki/Football">Link</a></p>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+2 შედით რომელიმე გაყიდვების საიტზე (მაგალითად ალტა), აირჩიეთ 3 ნივთი და ყველას ლინკი გამოიტანეთ საიტზე
+2 მეორე დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Samsung</h1>
+    <p>visit this link if you want buy samsung: <a href="https://alta.ge/phones-and-communications/smartphones/samsung
+    -s938b-galaxy-s25-ultra-12gb-512gb-5g-titanium-gray.html">Link</a></p>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Hyperx microphone</h1>
+    <p>visit this link if you want buy hyperx microphone: <a href="https://zoommer.ge/gaming
+    -aqsesuarebi/hyperx-quadcast-s-mic-p18317">Link</a></p>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Hyperx microphone</h1>
+    <p>visit this link if you want to buy hyperx keyboard: <a href="https://zoommer.ge/leptopis-aqsesuarebi/hyperx
+    -gaming-keyboard-alloy-origins-red-p27490">Link</a></p>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+
+
+
