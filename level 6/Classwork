@@ -1,0 +1,34 @@
+1 შემოატანინეთ მომხმარებელს თავისი სახელი და დაუპრინტეთ "Hello, X".
+1 პირველი დავალება
+
+name = input("enter yor name: ") 
+print("Hello, " + name + "!")  
+
+
+2 შემოატანინეთ მომხმარებელს რაიმე რიცხვი და გამოიტანეთ ამ რიცხვზე 1'ით მეტი
+2 მეორე დავალება
+
+num1 = int(input("enter your number: "))
+result = num1 + 1
+print("1 ით მეტი ეს რიცხვი არის:", result)
+
+
+2  შემოატანინეთ მომხმარებელს 2 ადამიანის ხელფასი და გამოიტანეთ მათი ჯამი
+2 მეორე დავალება 
+
+ salary1 = input("The salary of the first person is 1000: ")
+
+ salary2 = input("The second person's salary is 9000: ")
+
+total_salary = float(salary1) + float( salary2)
+
+print(" the sum of their salaries:", total_salary)
+
+
+3  შემოატანინეთ მომხმარებელს 2 რიცხვი და გამოიტანეთ მათი ნამრავლი
+3 მესამე დავალება 
+
+num1 = int(input("9: "))
+num2 = int(input("7: "))
+
+print("მათი ნამრავლი არის:", num1 * num2)
