@@ -1,0 +1,51 @@
+1 შექმენით დაულაგებელი list'ი რომელსაც ექნება 5 ელემენტი
+1 პირველი დავალება
+
+<div>
+    <li><strong>Blablablaa</strong></li>
+    <li><a>Zdarovaa</a></li>
+    <li><h1>დაულაგებელი ლისტიიი</h1></li>
+    <li><p>არ შემოხვიდეთ აქ</p></li>
+    <li><u>ბლაბლაააა</u></li>
+    </div>
+
+
+2 შექმენით დალაგებული list'ი რომელსაც ექნება 5 ელემენტი
+2 მეორე დავალება
+
+<div>
+    <li><h1>კარგი საიტი</h1></li>
+    <li><strong>შემოდი კარგ საიტზე</strong></li>
+    <li><ul>შემოისეირნეე</ul></li>
+    <li><p>შემოო თქოო</p></li>
+    <li><img src="https://ebg.ge/res/img/blog/fb/adfaf_78.jpg" width="500">>გაიღიმეეეეეე</li>
+    </div>
+
+
+3 ჩანესტეთ დაულაგებელი list'ი დალაგებულში
+3 მესამე დავალება
+
+
+<ol>
+    <li>
+        <ul>
+            <li><button>hello</button></li>
+            <li><p>hello visitor</p></li>\
+            <li><strong>get out</strong></li>
+            <li><img src="https://media.vanityfair.com/photos/58af2d64c41f737fae528166/16:9/w_1280,c_limit/get-out-review.jpg" width="500"></li>
+            <li><a href="https://mykadri.tv/4385-tavs-ushvele-get-out.html" >link</a></li>
+            </div>
+
+
+4 ჩანესტეთ დალაგებული list'ი დაულაგებელში 
+4 მეოთხე დავალება         
+
+<ol>
+    <li>
+        <ul>
+            <li>გამარჯობა</li>
+            <li><h1>შემო საიტზე</h1></li>
+            <li><strong>hello</strong>/li>
+            <li><p>zdd</p></li>
+            <li><button>say hello</button>click here</li>
+            </div>
