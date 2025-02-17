@@ -1,0 +1,85 @@
+1 შექმენით form label'ების გამოყენებით რომელშიც მომხმარებელს შემოატანინებთ, სახელს, მეილს და პაროლს.
+1 პირველი დავალება
+
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="name">name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="password">password:</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <button type="submit">sumbit</button>
+    </form>
+</body>
+</html>
+
+
+2 შექმენით form'ი placeholder'ების გამოყენებით რომელშიც მომხმარებელს შემოატანინებთ სახელს, დაბადების წელს, მეილს და პაროლს. 
+2 მეორე დავალება
+
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <input type="enter your text" id="enter your name" name="enetr your name" placeholder="enter your name" required><br><br>
+
+        <input type="enter your number" id="enter your birhday" name="enter your birhday" placeholder="enter your birhday" required><br><br>
+
+        <input type=" enetr your email" id="eneter your Email" name="eneter your Email" placeholder="enter your Email" required><br><br>
+
+        <input type="password" id="enter your password" name="enter your password" placeholder="enter your password" required><br><br>
+
+        <button type="submit">sumbit</button>
+    </form>
+</body>
+</html>
+
+
+
+3 შექმენით form'ი რომელიც მომხმარებელს აარჩევინებს კარტით იხდის თუ ქეშით.
+3 მესამე დავალება
+
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <p>Choose paymet method:</p>
+
+        <label for="card">credit card:</label>
+        <input type="radio" id="card" name="payment_method" value="card" required><br>
+
+        <label for="cash">Cash:</label>
+        <input type="radio" id="cash" name="Choose payment method" value="cash"><br><br>
+
+        <button type="submit">Sumbit</button>
+    </form>
+</body>
+</html>
+
+
+
+
