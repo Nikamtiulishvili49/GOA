@@ -1,0 +1,78 @@
+
+1 შექმენით multi page website ზუსტად ისეთივე როგორიც მე გავაკეთე
+1 პირველი დავალება
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>მთავარი</title>
+</head>
+<body>
+
+    <header>
+        <h1>მოგესალმებით multi page-ზე</h1>
+        <nav>
+        <ul>
+            <a href="index.html">მთავარი</a> 
+            <a href="about.html">ჩვენს შესახებ</a> 
+            <a href="contact.html">კონტაქტი</a>
+        </nav>
+    </header>
+
+
+    <section id="#index.html">
+        <h1>this is multi page the real webiste</h1>
+        <p>This is the main page</p>
+    </section>
+        
+    
+    <section id="about.html">
+        <h1>this is multi page the real website website</h1>
+        <p>You can learn more about us on this website</p>
+    </section>
+
+
+    <section id="contact.html">
+        <h1>this is multi page the real website</h1>
+        <p>on this page you can concatc us</p>
+    </section>
+
+      </nav>
+     </ul>
+  </body>
+</html>
+
+
+
+2 შექმენით single page website ზუსტად ისეთივე როგორიც მე გავაკეთე
+2 მეორე დავალება
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <header>
+        <h1>მოგესალმებით single website-ზე</h1>
+        <nav>
+        <ul>
+            <a href="#home">მთავარი</a> |
+
+
+            <section id="#home">
+                <h1>special page(home)</h1>
+                <p>this is single website</p>
+            </section>
+        </nav>
+        </ul>
+    </header>
+</head>
+<body>
+    
+</body>
+</html>
+
