@@ -1,0 +1,130 @@
+1 აირჩიეთ 10 ფოტო (ნებისმიერი) და გამოიტანეთ საიტზე
+1 პირველი დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <img src="https://www.nbc.com/sites/nbcblog/files/styles/scale_1280/public/2024/07/paris-2024-olympics-soccer.jpg" width="300">
+    <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11904956_b_v8_aa.jpg" width="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe515vQfsvblW5Nhq7Wao1vWh4-vuLyCcVfg&s" width="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLMNHoq72AxuSr3gHcrQ4PFRXrCng0_VSvg&s" width="300">
+    <img src="https://i.pinimg.com/736x/c8/ac/82/c8ac8249613b2cd9f4ee29ef568a9a0b.jpg" width="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" width="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMwtXz0pxQ34taoVbmeKxGuC50AIzM4k_6g&s" width="300">
+    <img src="https://i2.wp.com/images.daznservices.com/di/library/DAZN_News/3d/67/conor-mcgregor-ufc-264-07112021_7oh0o2m1b2ug1pozzhxy2p67t.jpg?t=-1744945510" width="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvBSYpdrmjC6s63P5oWgTiU4gPl36dkdVfQ&s" width="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgh6Xx8CBnZM8NPOmIEOwqV_KK6PnE1pluA&s" width="300">
+</head>
+<body>
+    
+</body>
+</html>
+
+
+2  აირჩიეთ 3 პროდუქტი და სამივეზე გამოიტანეთ, სახელი, პატარა ინფორმაცია, ფოტო და ლინკი მეტი ინფორმაციისთვის
+2 მეორე დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>apple iphone</h1>
+    <strong>apple-ის კომპანია არის ტელეფონების ერთ-ერთი ცნობილი კომპანია,რომელიც გამოცემს iphone-ს</strong>
+    <p>მეტი ინფორმაციისთვის ეწვიეთ ან გადადით ბმულზე</p>
+    <button>more info ეწვიეთ ლინკს</button>
+    <strong>link<button>https://alta.ge/phones-and-communications/smartphones/apple-iphone-15-128gb-black.html</button></strong>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Hyperx Headset</h1>
+    <strong>Hyperx-ის ყურსაასმენები არის ერთ-ერთი ცნობილი და ხარისხიანი ყურსაამსენი</strong>
+    <p>მეტი ინფორმაციისთვის ეწვიეთ ზუმერს ან გადადით მითითებულ ლინკზე</p>
+    <button>more info<button>https://zoommer.ge/audio-sistema/hyperx-gaming-headset-cloud-3-black-red-p37015</button>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Vila</h1>
+    <strong>შეიძინეთ 15 მილიონიანი ვილა იგრძენი თავი სამოთხეში<3</strong>
+
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>hyperx headset</h1>
+    <img src="https://s3.zoommer.ge/zoommer-images/thumbs/0196925_hyperx-gaming-headset-cloud-3-blackred_550.jpeg" width="500">
+    <p>if you want more info on hyperx visit this website: <a href="https://zoommer.ge/en/audio-system/hyperx
+    -gaming-headset-cloud-3-black-red-p37015">Link</a></p>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+2  შექმენით ფოტო რომელზეც დაჭერის შემდეგ გადაგიყვანთ სხვა საიტზე
+2 მეორე დავალება
+
+
+
+3 კომენტარებით ახსენით რა არის child, parent და nested
+3 მესამე დავალება
+
+Parent (მშობელი) ელემენტი
+ეს არის ელემენტი, რომელიც შეიცავს სხვა ელემენტებს
+მაგ:
+
+<div>
+    <p>ზდ ბრატ</p>
+</div>
+აქ <div> არის (parent), რადგან ის შეიცავს <p> ელემენტს.
+
+შვილი(child)
+ეს არის ელემენტი რომელიც მოთავსებულია სხვა ელემენტის შიგნით.
+მაგ:
+<ul>
+    <li>პირველი</li>
+    <li>მეორე</li>
+</ul> 
+ამ შემთხვევაში <li> არის child-ელემენტი
+
+
+nested-ეს არის ელემენტები, რომლებიც მშობლის შიგნით არიან. მაგ:
+<div>
+    <ul>
+        <li>სადგომი 1</li>
+        <li>სადგომი 2</li>
+    </ul>
+</div>
+
+
+
