@@ -1,0 +1,86 @@
+1 შექმენით დაულაგებელი list'ი რომელსაც ექნება 10 ელემენტი
+თითოეული ელემენტი ეცადეთ რომ სხვადასხვა იყოს, მაგალითად ზოგში img ჩასვით, ზოგში a და ა.შ)
+1 პირველი დავალება
+
+<div>
+    <li><strong>Blablablaa</strong></li>
+    <li><a>Zdarovaa</a></li>
+    <li><h1>დაულაგებელი ლისტიიი</h1></li>
+    <li><p>არ შემოხვიდეთ აქ</p></li>
+    <li><u>ბლაბლაააა</u></li>
+    <li><button>click me>please</button></li>
+    <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8GAN6vBsjjcN5hTmLxMH0QUmUXV4d5Rhsw&s" width="500"></li>
+    <li><u>zdd braat</u></li>
+    <li> <a href="https://www.youtube.com/" >Youtube Link</a> ></li>
+    <li><p>კარგაააად byeeeeeeeeeeeeeeee</p></li>
+</div>
+
+
+2 შექმენით დალაგებული list'ი რომელსაც ექნება 10 ელემენტი
+თითოეული ელემენტი ეცადეთ რომ სხვადასხვა იყოს, მაგალითად ზოგში img ჩასვით, ზოგში a და ა.შ
+2 მეორე დავალება
+
+<div>
+    <li><h1>კარგი საიტი</h1></li>
+    <li><strong>შემოდი კარგ საიტზე</strong></li>
+    <li><ul>შემოისეირნეე</ul></li>
+    <li><p>შემოო თქოო</p></li>
+    <li><img src="https://ebg.ge/res/img/blog/fb/adfaf_78.jpg" width="500">>გაიღიმეეეეეე</li>
+    <li><a href="https://www.youtube.com/watch?v=bAMt_0AAxFI" >link</a></li>
+    <li><button>more info</button></li>
+</div>
+
+
+3 ჩანესტეთ დაულაგებელი list'ი დალაგებულში (არ დაგავიწყდეთ რომ სხვა li'ებიც მისცეთ parent ელემენტს
+3 მესამე დავალება
+
+
+<ol>
+    <li>
+        <ul>
+            <li><button>hello</button></li>
+            <li><p>hello visitor</p></li>\
+            <li><strong>get out</strong></li>
+            <li><img src="https://media.vanityfair.com/photos/58af2d64c41f737fae528166/16:9/w_1280,c_limit/get-out-review.jpg" width="500"></li>
+            <li><a href="https://mykadri.tv/4385-tavs-ushvele-get-out.html" >link</a></li>
+            <li><h2>get out now</h2></li>
+        </ul>
+    </li>
+</ol>
+
+
+
+
+
+4  ჩანესტეთ დალაგებული list'ი დაულაგებელში (არ დაგავიწყდეთ რომ სხვა li'ებიც მისცეთ parent ელემენტს)
+4 მეოთხე დავალება
+
+<ol>
+    <li>
+        <ul>
+            <li>გამარჯობა</li>
+            <li><h1>შემო საიტზე</h1></li>
+            <li><strong>hello</strong>/li>
+            <li><p>zdd</p></li>
+            <li><button>say hello</button>click here</li>
+            <li><a href="https://www.w3schools.com/html/">Click this if you want learn html</a>Link</li>
+            <li><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy53EMPHeImTci6zEMctEViRzixpk5yBc
+            -oblmN4LxbCZup8Qdok5PFnW4E1-brJ6X1R_OYgiT8t34Bnw7eeUzINz15Qgor4oVK8eFTA" width="500"></li>
+            
+        </ul>
+    </li>
+</ol>
+
+
+
+5 თქვენი სიტყვებით ახსენით რა არის ატრიბუტი, რა არის optional ატრიბუტი, რა არის required ატრიბუტი და მოიყვანეთ მაგალითები
+5 მეხუთე დავალება
+
+# atribute-არის დამატებითი ინფორმაცია საიტის ან რაიმე ინფორმაციის შესახებ ისინი იწერება ყოველთვის <> ამის შინგნით, მაგ:
+# <img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh
+# __rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="youtube photo" width="500">
+
+
+# required atribute-ეს არის ატრბიბუტი რომლის გარეშეც ელემენტი ვერ იმუშავებს, მაგ:
+# <a href="https://www.youtube.com/">youtube link</a> აქ <a ელემენტის გარეშე ვერ მოხდება გადამამისამართება
+
