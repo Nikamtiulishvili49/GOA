@@ -1,0 +1,26 @@
+1 შექმენით list'ი 5 ელემენტით და slicing'ის მეშვეობით გამოიტანეთ 2 ელემენტიდან ბოლო ელემენტის ჩათვლით
+1 პირველი დავალება
+
+my_list =["car", "cat", "dog", "house", "banana"]
+sliced_list = my_list[1:]
+print(sliced_list)
+
+
+
+2 შექმენით list'ი 5 ელემენტით და slicing'ის მეშვეობით გამოიტანეთ თავიდან ბოლოს წინა ელემენტამდე
+2 მეორე დავალება
+
+# შექმენით list'ი 5 ელემენტით და slicing'ის მეშვეობით გამოიტანეთ თავიდან ბოლოს წინა ელემენტამდე
+
+my_list =["car", "cat", "dog", "house", "banana"]
+sliced_list = my_list[0:3]
+print(sliced_list)
+
+
+3 შექმენით string'ი და შემდეგ slicing'ის მეშვეობით შეატრიალეთ უკუღმა
+3 მესამე დავალება
+
+my_string = "Nikolozi"
+reversed_string = my_string[::-1]
+print(reversed_string)
+
