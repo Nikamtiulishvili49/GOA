@@ -1,0 +1,43 @@
+
+1 გაიხსენეთ და ახსენით წესები რომლებიც მუშაობს ყველა ლოგიკურ ოპერატორზე რაც დღეს ვისწავლეთ (and, or, not)
+1 პირველი დავალება
+
+# And-უნდა იყოს 2 true მაინც რომ გამოიტანოს true მაგ:
+# print(true and true and false) # true
+
+# or-ერთხელ უნდა იყოს true რომ გამოტანოს true მაგ:
+# print(True or false or false) # true
+
+# not-აბრუნებს პირობას მაგალითად თუ იქნება false გახდება true
+
+
+
+2 შექმენით and ოპერატორის მეშვეობით 5 სხვადასხვა მაგალითი
+2 მეორე დავალება
+
+print(True and False and True) # True
+print(False and False True) # False
+print(True and True and True and False and False) # True
+print(False and False and False and False) # False
+print(True and False and True and False and True and True) # True
+
+
+3 შექმენით or ოპერატორის მეშვეობით 5 სხვადასხვა მაგალითი
+3 მესამე დავალება
+
+print(True or False or False) # True
+print(False or False or True or True) # True
+print(False or False) # False
+print(False or False True or False) # False
+print(True or True or True or False) # True
+
+
+4 შეურიეთ შედარების და ლოგიკური ოპერატორები და გააკეთეთ 5 მაგალითი
+4 მეოთხე დავალება
+
+print(True and True or False and False and  5 != 7) # True 
+print(False or True and False and True and True or False and True or 5 == 8) # False
+print(True and False or True and False or 11 >= 19) # False
+print(False or True or False or False and True or 9 == 1) # True
+print(False or False or False or True) # True
+
