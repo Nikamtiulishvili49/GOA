@@ -1,0 +1,79 @@
+1 ჩაამატეთ ვაშლის ფოტო თქვენს საიტზე
+1 პირველი დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5r0_FrSjm2OgttQLwh_CnVCnzbJ7dLv6oA&s" width="500">
+    <img src="https://www.applesfromny.com/wp-content/uploads/2020/05/20Ounce_NYAS-Apples2.png" width="500">
+</head>
+<body>
+    
+</body>
+</html>
+
+
+2  ჩაამატეთ თქვენი საყვარელი სპორტის ფოტო თქვენს საიტზე
+2 მეორე დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Footbal</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSs_bwKK_7ZxCjc6quqNa7xSmN8wceKtV2-A&s" witdh="1000">
+</head>
+<body>
+    
+</body>
+</html>
+
+
+3 ჩაამატეთ თქვენი საყვარელი პროგრამირების ენის ფოტო
+3 მესამე დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Javascript</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXhjVqtRd6tiqcsSQ7rD6VF7NxI-3VvoR0w&s" width="500">
+</head>
+<body>
+    
+</body>
+</html>
+
+
+4 გაიხსენეთ და ახსენით დღეს ნასწავლი ყველა formatting tag'ი
+4 მეოთხე დავალება
+
+1 # <h1> <h2> <h3> ... ვიყენებთ ხშირად სათაურის დასაწერად. ყველაზე დიდი ტექსტი იწყება <h1>-იდან.
+2 # <p> იგივე ტექსტის ბლოკი,ვიყენებთ რაიმე დამტებითი ინფორმაციიის დასაწერად.
+3 # <img> ვიყენებთ საიტზე ფოტოს შემოსატანად(ჩასასმელად) ფოტოს ლინკის დახმარებით.
+4 # <u> ტექსტის ხაზი ქვემოდან  ვიყენებთ ხშირად იმ დროს როდესაც ჩევნ გვინდა
+# რომ მივიქციოთ მომხმარებელს ყურადღება და ვაჩენოთ რომ ეს საინტერესო ტექსტია.
+5 # <i> დახრილი ტექსტი.
+6 # <b> მუქი ტექსტი.
+7 # <strotng> მნიშვნელოვანი ტექსტი.
+
+
+
+5  თქვენი სიტყვებით ახსენით რა არის semantic tag
+5 მეხუთე დავალება
+
+# სემანტიკური თეგები არის HTML ტეგები, რომლებიც ამბობენ, რას ნიშნავს ეს ელემენტი. მაგ:
+<nav>, <header> ...
+
+
+
+
+
+
