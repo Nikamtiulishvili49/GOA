@@ -1,0 +1,78 @@
+
+1 ახსენით რაში გვჭირდება page layout, ასევე განიხილეთი მისი ნაწილები ანუ სემანტიკური თეგები როგორიცაა header, main და ა.შ
+1 პირველი დავალება
+
+# Page layout- არის საიტის განლაგება,რომელიც განსაზღვრავს საიტზე მყოფი ელემენტების მდებარეობას.
+# page layot ნაწილები-<header> არის ელემენტი საიტის თავზე რომელსაც ვიყენებთ მენიუს, ლოგოს ან სხვა რაღაცეების გამოსაყენებლად.
+# page layout ნაწილები-<main> არის ელემენტი რომესლაც ჩვენ ვიყენებთ რაიმე დიდი და საინტერსო შინაარსის ჩასაწერად.
+
+
+2 ახსენით რა არის inline და block level element'ები
+2 მეორე დავალება
+
+# block level elements-ელემენტები რომლებიც ყველა ელემენტს იკავებენ,და იკავაბენ ახალ ხაზს.
+# inline-ელემენტები იკავებენ იმ ადგილს რაც საჭიროა და არ იწყებენ ახალს ხაზს 
+
+
+3 ახსენით რაში გამოიყენება style attribute
+3 მესამე დავალება
+
+# style atributte-ვიყენებთ როდესაც გვინდა რაიმე კონკრეტულ ელემენტს მივანიჭოთ სახე.
+
+
+4 ახსენით რაში გამოიყენება div'ები
+4 მეოთხე დავალება
+
+# div-არის html-ის ელემენტი რომელიც გამოიყენება საიტის სტრუქტურის შესასწავლად ასევე შეგვიძლია გამოვიყენოთ როგორც კონტეინერი
+
+
+5  შექმენით პარაგრაფი რომელსაც შეუცვლით ფერს და გახდით წითელს
+5 მეხუთე დავალება
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .red-text {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <p class="red-text">წითელი</p>
+</body>
+</html>
+
+
+6 დღეს ნასწავლი page layout'ის თეგების მეშვეობით შექმენით საიტი python'ზე
+6 მეექვსე დავალება
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Python website</h1>
+    </header>
+</body>
+</html>
