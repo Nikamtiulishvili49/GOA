@@ -1,0 +1,79 @@
+
+1 გააკეთეთ and ოპერატორის 10 მაგალითი და სანამ გაუშვებთ კომენტარად მიაწერეთ თქვენი აზრით რა იქნება შედეგი (არ არის აუცილებელი მხოლოდ 2 Input'ი იყოს, შეიძლება იყოს 10'იც,
+ ანუ მაგალითად: True and True and False and False and True (5 input))
+ 1 პირველი დავალება
+
+ print("True and False and True and False and False") #true
+print("False and True and False and True") # true
+print("False and False and False and False") # false
+print("True and True and True and True") # true
+print("False and True and False and False") # true
+print("True and False and False and True and False and True and False and False and False") # true
+print("True and True and True and False") # True
+print("False and False and False and False and Fal;se and False and False and True") # True
+print("True and True and Ture and True") # True
+print("False and False and False and False and False") # false
+
+
+
+2  გააკეთეთ or ოპერატორის 10 მაგალითი და სანამ გაუშვებთ კომენტარად მიაწერეთ თქვენი აზრით რა იქნება შედეგი
+2 მეორე დავალება
+
+
+print("True or False or True or False or False") #true
+print("False or True or False or True") # true
+print("False or False or False or False") # false
+print("True or True or True or True") # true
+print("False or True or False or False") # false
+print("True or False or False") # false
+print("True or True or True or False") # False
+print("False or False or False or False or False or False") # False
+print("True or True or Ture or True") # True
+print("False or False or False or False") # False
+
+
+
+
+3  შეურიეთ or და and ოპერატორები და გააკეთეთ ისევ 10 მაგალითი წინა დავალებების მსგავსად
+3 მესამე დავალება
+
+
+print(True and False or True and False or True and False) # false
+print(True and True and False or True or True or True) # True
+print(True or False and False and False or True) # True
+print(False or True and False or True and True and True) # true
+print(False and False and True and True) # false
+print(False and True and True and True or False) # False
+print(True or False or False or False or True) # true
+print(False or False or False or False or False) # false
+print(True and True and True and False and False and False and False and False) # false
+print(False or True and False or True and False or True and False or True and True) # True
+
+
+4 შეურიეთ შედარების და ლოგიკური ოპერატორები და გააკეთეთ ისევ 10 მაგალითი წინა დავალებების მსგავსად
+4 მეოთხე დავალება
+
+
+print(10 > 9 and 4 > 18)  # False
+
+print(9 < 2 and 11 >= 13)  # False
+
+print(5 != 10 or 10 > 2 and 3 < 8)  # True
+
+print(6 != 6 or 10 > 2 and 5 <= 5)  # True 
+
+a = 66
+b = 10
+print(a > b and b < 30)  # True
+
+print(100 != 100 and 50 == 30)  # False
+
+print(3 < 5 and 8 > 2 and 10 <= 10)  # True
+
+x = 199
+y = 101
+print(x < y or y == 5)  # False
+
+print(4 < 10 or 6 >= 6 or 7 <= 7)  # True
+
+print(59 < 11 or 900 > 999 and 201 == 199)  # False
