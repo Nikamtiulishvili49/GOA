@@ -1,0 +1,26 @@
+ 1 შექმენით ერთი პატარა ვებსაიტი. ვებსაიტის თემა იყოს Python (პროგრამირების ენა). გამოიყენეთ შემდეგი თეგები:
+ h1, h2, p, img. (რათქმაუნდა შეგიძლიათ გამოიყენოთ სხვა heading-ები) 
+1 პირველი დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Python</h1>
+    <h2>პითონი არის ერთ-ერთი ცნობილი და მოთხოვნადი პროგრამირების ენა.</h2>
+    <img src="https://i0.wp.com/www.learncsdesign.com/wp-content/uploads/2023/01/python.webp?fit=522%2C246&ssl=1" width="500">
+    <p>მეტი ინფპრმაციისთვის ეწვიეთ ptyhon-ის საიტს</p>
+    <button>more info</button>
+
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+
