@@ -1,0 +1,51 @@
+
+1 შექმენით 10 ელემენტიანი list'ი და კომენტარის სახით დანომრეთ (მიუწერეთ ინდექსები). შემდეგ კი უბრალოდ გამოიტანეთ ეკრანზე.
+1 პირველი დავალება
+
+my_list =[1, 2, 3, 4, 5, 6, 7, 7, 9, 10]
+#      0  1  2  3  4  5  6  7  8  9
+print(my_list)
+
+
+2 პირველ დავალებაში შექმნილი List'იდან გამოიტანეთ პირველი სამი, ბოლო სამი და შუა 4 დადებითი ინდექსებით. (slicing)
+2 მეორე დავალება
+
+my_list =[1, 2, 3, 4, 5, 6, 7, 7, 9, 10]
+
+first_three = my_list[:3]
+
+last_three = my_list[-3:]
+
+middle_four = my_list[3:7]
+
+print( first_three)
+print( last_three)
+print( middle_four)
+
+
+3 პირველ დავალებაში შექმნილი List'იდან გამოიტანეთ პირველი სამი, ბოლო სამი და შუა 4 უარყოფითი ინდექსებით. (slicing)
+3 მესამე დავალება 
+
+
+my_list =[1, 2, 3, 4, 5, 6, 7, 7, 9, 10]
+
+first_three = my_list[:-len(my_list) + 8]
+
+last_three = my_list[-3:]
+
+middle_four = my_list[-(len(my_list) // 2 + 2):- (len(my_list) // 2 - 2)]
+
+print(first_three)
+print(last_three)
+print(middle_four)
+
+
+
+4 შექმენით სტრინგი და შეატრიალეთ მისი სიმბოლოები ანუ თუ თავიდან იქნებოდა "Hello" გახდეს "olleH"
+4 მეოთხე დავალება
+
+my_string = "hello"
+reversed_string = my_string[::-1]
+print(reversed_string)
+
+
