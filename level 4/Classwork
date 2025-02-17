@@ -1,0 +1,98 @@
+# 1 შექმენით 2 ცვლადი, სახელად num1 და num2, შემდეგ შექმენით მესამე ცვლადი, სახელად sum (ჯამი),
+# რომელიც შეინახავს ამ ორი ცვლადის ჯამს, საბოლოოდ დაპრინტეთ ცვლადი, sum.
+
+num1 = 5
+num2 = 95
+
+sum = num1 + num2
+print("ჯამი არის:", sum)
+
+
+# 2  შექმენით ცვლადი სახელად price (ფასი), რომელიც თავიდანვე უდრის 50, შემდეგ გაანახლეთ ამ
+# ცვლადის მნიშვნელობა, და გახადეთ 80. საბოლოოდ დაპრინტეთ ცვლადი, price
+
+price = 50
+
+price += 30
+
+print("ფასი არის:", price)
+
+
+ 
+3 კომენტარის სახით ახსენი, თუ რა არის debugging
+3 მესამე დავალება 
+ # debugging-არის არასწორი კოდის პოვნა,მაგალითად თუ კოდი არ მუშაობს ან არ
+ # გაშვებულა ჩვენ ამ შეცდომას Debugging-ის დახმარებით ვიპოვით.
+
+
+
+ 4 შეასწორეთ შეცდომები
+ 4 მეოთხე დავალება
+
+Exercise 1:
+# არასწორი კოდი
+print("Hello, World!)
+
+ # სწორი კოდი
+ print("hello world!")
+
+Exercise 2: 
+# არასწორი კოდი
+greeting = "Good Morning"
+print(gretin)
+
+# სწორი კოდი
+print("good morning")
+
+Exercise 3: 
+# არასწორი კოდი
+first_name = "Alice"
+last_name = "Smith"
+print("Name: " + first_name + last_name)
+
+# სწორი კოდი
+print("alice smith")
+
+Exercise 4:
+# არასწორი კოდი
+number = 50
+print("The number is: " + number)
+
+# სწორი კოდი
+print("50")
+
+Exercise 5: 
+# არასწორი კოდი
+name = "George"
+print("Hello name!")
+
+# სწორი კოდი
+print("hello george!")
+
+Exercise 6: 
+# არასწორი კოდი
+age = 25
+print("I am" age "years old.")
+
+3 სწორი კოდი
+print("25")
+
+Exercise 7: 
+# არასწორი კოდი
+num1 = "10"
+num2 = "20"
+result = num1 + num2
+print(result)
+
+# სწორი კოდი
+num1 = 10
+num2 = 20
+
+sum = num1 + num2
+
+print("ჯამი არის:", sum)
+
+4 კომენტარებით ახსენით,თუ რაარის best pracrice
+
+# best practice-ანუ საუკეთესო პრაქტიკა ნიშნავს კოდის საუკეთესო პრაქტიკით დაწერა,კარგი კოდი იკითხება ლამაზად,
+# აკეთებს ყველაფერს და ეფექტურია,ამაში გვეხმარება best practice.
