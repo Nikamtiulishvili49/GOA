@@ -1,0 +1,56 @@
+1  შექმენით html'ის ფაილი და შიგნით შექმენით 3 paragraph'ი, სხვადასხვა ტექსტებით 
+1 პირველი დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>gamarjoba</p>
+    <p>dog</p>
+    <p>blabla</p>
+</body>
+</html>
+
+
+
+2 4) შექმენით html'ის ფაილი და შიგნით ჩასვით 3 button'ი
+2 მეორე დავალება 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button>next</button>
+    <button>press</button>
+    <button>click me</button>
+</body>
+</html>
+
+
+3 შექმენით html'ის ფაილი და გატესტეთ ყველა heading თეგი (h1, h2... h6)
+3 მესამე დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hello</h1>
+    <h2>bye</h2>
+    <h3>blblaa</h3>
+    <h4>dhvfbhi</h4>
+    <h5></h5>
+</body>
+</html>
+
