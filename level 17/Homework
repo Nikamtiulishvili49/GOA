@@ -1,0 +1,106 @@
+1 შექმენით single page website. თავიდან იყოს home, შემდეგ about და ბოლოში contact.
+ეს იქნება თქვენი პირველი პორტფოლიო, homeში დაწერეთ ვინ ხართ, გამოიტანეთ თქვენი ფოტო,
+aboutში დაწერეთ ინფორმაცია თქვენს შესახებ, რა მოგწონთ, რა არ მოგწონთ, რითი ხართ დაკავებული და ა.შ. და
+contactში გააკეთეთ ასეთი რამ რაც ფოტოზეა მოცემული, formების გამოყენებით. გამოიყენეთ ყველაფერი რაც აქამდე ვისწავლეთ.
+1 პირველი დავალება
+
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+  <section id="home">
+    <h1>გამარჯობა,ამ საიტზე ნახავთ ჩემს შესახებ ყველანაირ ინფორმაციას.</h1>
+    <img src="https://www.facebook.com/photo?fbid=122105811134692770&set=a.122105811164692770" width="300">
+    <p>ეს არის ჩემი ფოტო.</p>
+  </section>
+
+
+  <section id="about me">
+    <h2>ჩემს შესახებ</h2>
+    <p>გამარჯობა,ჩემი სახელია ნიკოლოზ მთიულიშვილი,ვცხოვრობ თბილიში,ვარ 13 წლის.დაკავებული ვარ პროგრამირებით,
+    ვსწავლობ Goal-Oriented-Academy-ში,მინდა მომავალში გამოვიდე მენტორი.</p>
+    <ul>
+      <li>მომწონს: პროგრამირება, მოგზაურობა, კითხვა.</li>
+      <li>არ მომწონს: მათემატიკა, ზარმაცობა.</li>
+      <li>დაინტერესებული ვარ: პროგრამიერებით და web-development.</li>
+    </ul>
+  </section>
+
+
+  <section id="contact">
+    <h2>კონტაქტი</h2>
+    <form action="submit-form.php" method="POST">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="first-name" required>
+
+      <label for="last-name">Lastname</label>
+      <input type="text" id="last-name" name="last-name" required>
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" required></textarea>
+
+      <button type="send">send</button>
+    </form>
+  </section>
+
+</body>
+</html>
+
+
+2 შექმენით instagramის სარეგისტრაციო ფორმა ყველაფრით რაც ვისწავლეთ.
+რათქმაუნდა დიზაინით არა htmlით რასაც შეძლებთ და რა იცით ისე გააკეთეთ,
+ასევე დაამატეთ ქვემოთ მოცემული Log in და როდესაც მომხმარებელი მაგას დააწვება გადაიყვანეთ Log in form'ზე.
+2 მეორე დავალება
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>Instagram</h1>
+        <form>
+            <label for="email">Mobile Number or Email:</label><br>
+            <input type="text" id="email" name="email"><br><br>
+            
+            <label for="fullname">Full Name:</label><br>
+            <input type="text" id="fullname" name="fullname"><br><br>
+            
+            <label for="username">Username:</label><br>
+            <input type="text" id="username" name="username"><br><br>
+            
+            <label for="password">Password:</label><br>
+            <input type="password" id="password" name="password"><br><br>
+            
+            <button type="submit">Sign Up</button><br><br>
+        </form>
+        <p><a href="#">Log in</a></p>
+    </div>
+</body>
+</html>
+
+
+
+3 ახსენით რაში გამოიყენება form'ები
+3 მესამე დავალება
+
+# <form>-არის ელემენტი რომელიც გამოიყენება მომხმარებლის ინფორმაციის 
+# შესაგროვებლად,მაგალითად მომხმარებელს შეყავს მისი სახელი, გვარი და ა.შ
+
+
+4 ახსენით რატომ არის საჭირო ან label'ის ან placeholder'ის გამოყენება
+4 მეოთხე დავალება
+
+# <label> და placeholder ორივე მნიშვნელოვანი ელემენტია, რათა ფორმები იყოს გასაგები და მომხმარებლისთვის 
+# გამოყენებადი,ეს მომხმარებელს საიტს უქმნის უფრო კომფორტულს.
+
