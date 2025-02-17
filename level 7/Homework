@@ -1,0 +1,88 @@
+1 შექმენით საიტი GOA-ზე.  გამოიყენეთ შემდეგი თეგები: h1, h2, p
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Goal-oriented-academy</h1>
+    <p>გოა არის საქართველოში ყველაზე კარგი პროგრამირების აკადემია,
+    აქ შენ შეისწავლი პროგრამირების სხვადასხვა ენებს მაგ:python,html,css,javascripy,java,c++ და ა.შ</p>
+    <button>more info</button>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+2) შექმენით საიტი პროგრამირების ენებზე. გამოიყენეთ ორივე ფოტოს ჩასმის ხერხი
+2 მეორე დავალება
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Python</h1>
+    <p>პაითონი წარმოადგენს მაღალი დონის პროგრამირების დინამიურ ენას შესაძლებლობათა ფართო სპექტრით, 
+    რომლის დიზაინი ყურადღებას ამახვილებს კოდის ადვილად წაკითხვადობაზე.პაითონის სტანდარტული
+     ბიბლიოთეკა დიდია და ყოვლელმხრივი. ის იყენებს ძალზე იშვიათ გამომყოფებს ბლოკებისთვის აბზაცებს.</p>
+    <button>For more information, visit the Python site</button>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+3 შექმენით საიტი ნებისმიერ თემაზე, სადაც გამოიყენებთ ყველა ნასწავლს თეგს
+3 მესამე დავალება
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h2>თავისუფალი თემა</h2>
+    <p>fredoom</p>
+    <h5>fredoom is good</h5>
+    <img src="https://img1.wsimg.com/isteam/stock/yE3Bqn/:/rs=h:1000,cg:true,m" alt="fredoom photo"
+    <button>click me </button>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+4  კომენტარების გამოყენებით ახსენით თუ რა არის attribute
+4 მეოთხე დავალება
+
+# atribute-არის დამატებითი ინფორმაცია რაიმეს შესახებ და ის იწერება თეგის შინგით,მაგ:
+< # Img src="image.jpg"> image.jpg-ეს არის atribute
+
+
+5 კომენტარების გამოყენებით ახსენით თუ რა არის best practice და მოიყვანეთ რამოდენიმე მაგალითი
+5 მეხუთე დავალება
+
+# best practice-ანუ საუკეთესო პრაქტიკა ნიშნავს კოდის საუკეთესო პრაქტიკით დაწერა,კარგი კოდი იკითხება ლამაზად,
+# აკეთებს ყველაფერს და ეფექტურია,ამაში გვეხმარება best practice. მაგ:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>best practice</h1>
+    <p>Best practices help us write correct, beautiful and efficient code.</p>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*CM1ZAWaqzjAZkUSYtBS8sg.png" alt="best practice photo">
+    <button>more info</button>
+</head>
+<body>
+    
+</body>
+</html>
+# ეს არის Best
